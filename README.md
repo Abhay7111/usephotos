@@ -1,2 +1,2 @@
 # usephotos
-<img scr="https://cdn.pixabay.com/photo/2024/01/29/20/33/river-8540767_640.jpg">
+<img src="https://avatars.githubusercontent.com/u/142080096?v=4" alt="Profile Picture">
